@@ -1,0 +1,2 @@
+# typescriptFun
+fun with typescript
